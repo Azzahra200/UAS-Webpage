@@ -1,0 +1,27 @@
+
+
+.footer-content .content-about{
+	font-family: 'Quicksand' sans-serif;
+	color : black;
+	text-align: center;
+	font-size: 20px;
+}
+
+.footer-brand{
+	color: black;
+}
+
+.footer-sosial{
+	color: black;
+}
+
+.footer-foto{
+	color: black;
+}
+
+.content-sosial .content-pesan{
+	font-family: sans-serif;
+	color: black;
+	text-align: center;
+	font-size: 10px
+}
